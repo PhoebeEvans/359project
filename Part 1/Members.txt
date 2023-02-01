@@ -1,6 +1,6 @@
 Ty Bergman
-  Username:
-  Email: 
+  Username: tyhbergman
+  Email: ty.bergman@enmu.edu
   
 Phoebe Evans
   Username: PhoebeEvans
